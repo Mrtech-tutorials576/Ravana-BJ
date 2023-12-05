@@ -11,8 +11,7 @@
   cloudflare link forwoding 
 ```
  
-*`git clone https://github.com/princekrvert/Ravana.git`
- 
+*`git clone https://github.com/Mrtech-tutorials576/Ravana-BJ
  
 *`cd Ravana`
  
